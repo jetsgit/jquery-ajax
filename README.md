@@ -14,4 +14,4 @@ Setup
 Implements an ajaxified Check List
 ----------------------------------
 
-![Example Check List](app/assets/image/my_tasks.png)
+![Example Check List](app/assets/images/my_tasks.png)
